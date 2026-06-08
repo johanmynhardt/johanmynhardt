@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @johanmynhardt
-- 👀 I’m interested in Java, JavaScript, Clojure, ClojureScript, Python and by neccessity, TypeScript
-- 🌱 I’m currently learning too many things.
+- 👀 My interests are around Java, Clojure, some Python and currently exploring Flutter/Dart. By necessity I'm being exposed to TypeScript.
+- 🌱 Right now I'm sharpening the saw (revisiting tech I have not used in a while).
 - 💞️ I’m looking to collaborate on work.
-- 📫 How to reach me: Don't call me, I will call you.
-- ⚡ Fun fact: I'm hard to be convinced.
+- 📫 How to reach me: `johanmynhardt` on ZATech Slack (zatech.slack.com)
+- ⚡ Fun fact: Even though it may take some effort to convince me, once I'm in, I'm in!
 
 ```clojure
 (map (partial str (name :love) \: \ )
